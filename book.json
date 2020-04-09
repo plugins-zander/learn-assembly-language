@@ -15,7 +15,7 @@
     "mygitalk@git+https://github.com/plugins-zander/gitbook-plugin-mygitalk.git",
     "edit-link@git+https://github.com/plugins-zander/gitbook-plugin-edit-link.git",
     "sitemap-general@git+https://github.com/plugins-zander/gitbook-plugin-sitemap-general.git",
-    "ga@git+https://github.com/plugins-zander/gitbook-plugin-ga.git",
+    "gtag@git+https://github.com/plugins-zander/gitbook-plugin-gtag.git",
     "chapter-fold@git+https://github.com/plugins-zander/gitbook-plugin-chapter-fold.git",
     "copy-code-button@git+https://github.com/plugins-zander/gitbook-plugin-copy-code-button.git",
     "page-toc@git+https://github.com/plugins-zander/gitbook-plugin-page-toc.git"
@@ -31,7 +31,7 @@
       ],
       "distractionFreeMode": false
     },
-    "ga": {
+    "gtag": {
       "token": "UA-149127400-1"
     },
     "edit-link": {
